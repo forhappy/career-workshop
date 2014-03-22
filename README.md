@@ -1,4 +1,4 @@
-career-workshop
+Career workshop
 ===============
 
 Career workshop.
